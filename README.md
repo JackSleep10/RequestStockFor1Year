@@ -1,0 +1,34 @@
+# Thai Lion Air - GSE Annual Procurement Plan 2027
+**Ground Support Equipment (GSE) Maintenance Department (BKKGG)**  
+Don Mueang International Airport (DMK) & Line Stations
+
+---
+
+## 📌 Deliverable Files
+1. **`Master_Procurement_Plan_2027_GSE.xlsx`**
+   - แผนแม่บทจัดซื้อพัสดุและอะไหล่ GSE ประจำปี 2570
+   - ครอบคลุม 11 หมวดหมู่พัสดุ (รวม DEUTZ Engine Parts และพัสดุความปลอดภัย/งานช่างนอก DM01)
+   - ปรับยอดสั่งซื้อขั้นต่ำ (MOQ >= 4) รองรับรอบสั่งซื้อปีละ 2 ครั้ง (H1: ม.ค.-มิ.ย. และ H2: ก.ค.-ธ.ค.)
+   - กำหนดงวดส่งมอบ 2 งวดต่อรอบ (60% ต้นรอบ, 40% กลางรอบ)
+   - หน้าสุดท้าย (Tab 12): **`12_SIGN_OFF_APPROVAL`** แบบฟอร์มบันทึกข้อความและตรวจสอบรับรองโดย GSE Supervisor พร้อมสายอนุมัติผู้บริหาร
+
+2. **`Order_Spec_List_2027_GSE.xlsx`**
+   - เอกสารรายละเอียดข้อกำหนดคุณลักษณะพัสดุ (Specifications) สำหรับแนบขออนุมัติจัดซื้อ (IOM)
+   - รหัสพัสดุตรงตามคลัง DM01 ปัจจุบัน 100% พร้อมคุณลักษณะทางเทคนิคตามเอกสารราชการ
+   - หน้าสุดท้าย (Tab 12): **`12_SIGN_OFF_APPROVAL`** สรุปงบประมาณและบล็อกลายเซ็นครบถ้วน
+
+---
+
+## 📂 Category Breakdown (11 หมวดหมู่)
+1. **1_LUBRICANTS**: น้ำมันเครื่องดีเซล, น้ำมันเกียร์, น้ำมันเพืองท้าย, น้ำมันไฮดรอลิก (Shell Tellus, Spirax, Rimula)
+2. **2_TIRES_TUBES**: ยางรถลากกระเป๋า, ยางตันรถดัน, ยางรถตู้/กระบะ, ยางรถบัส (Bridgestone, Michelin, Deestone, Continental)
+3. **3_FILTERS**: ไส้กรองเครื่องยนต์, ไส้กรองโซล่าดักน้ำ, กรองอากาศ, กรองน้ำมันไฮดรอลิก (K-Flo, Fleetguard, Donaldson, Mann)
+4. **4_BATTERIES**: แบตเตอรี่รถบริการและยานพาหนะ GSE (GS Battery MFX-190L/R, N150, N200, LN4-DIN90)
+5. **5_BELTS**: สายพานหน้าเครื่องยนต์และพัดลม (MITSUBOSHI Cogged & Classical V-Belts)
+6. **6_CONSUMABLES**: น้ำยาทำความสะอาด, น้ำยาหล่อเย็น, สเปรย์ไล่ความชื้น, ยางกันชนรถลาก, เทปสะท้อนแสง 3M
+7. **7_PAINTING**: สีพ่นรถยนต์ Nippon Pylac, แลคเกอร์ 2K, สีรองพื้นนาโกย่า, กระดาษทรายกลม 3M
+8. **8_LIGHTING**: หลอดนีออน T8 LED 18W, หลอดไฟขั้วเกลียว EVE 11W-18W, ไฟหมุนเตือนภัย LED Beacon
+9. **9_REFRIGERANT**: น้ำยาแอร์ยานพาหนะและอาคาร (R134a, R22, R32)
+10. **10_DEUTZ_SPECIAL**: อะไหล่และไส้กรองเครื่องยนต์ DEUTZ สำหรับ High Loader, ASU, GPU และ AC Cart
+11. **11_NON_DM01_SPECIAL**: พัสดุความปลอดภัยและงานช่างนอกคลัง DM01 (ถังดับเพลิง 15 ปอนด์, บูชยาง PB, เหล็กงานโครงสร้าง, ชุด PPE ช่างเชื่อม)
+12. **12_SIGN_OFF_APPROVAL**: สรุปงบประมาณและบันทึกข้อความรับรองโดยหัวหน้างาน (Supervisor Sign-off)
