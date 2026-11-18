@@ -167,3 +167,6 @@ Don Mueang International Airport (DMK) & Line Stations
 ### 2026-11-18 (รอบ 2)
 - ปรับมาตรฐานคำอธิบายรายการหมวดหลอดไฟและโคมไฟ (`8_LIGHTING`) จำนวน 9 รายการ ให้ตรงตามแบบ `Order_Spec_List_2027_H1_FirstHalf_A4 FIX` ในไฟล์ Excel หลักทั้ง 4 ไฟล์ (`Master_Procurement_Plan_2027_GSE.xlsx`, `Order_Spec_List_2027_GSE.xlsx`, `Order_Spec_List_2027_H1_FirstHalf_A4.xlsx`, `Order_Spec_List_2027_H2_SecondHalf_A4.xlsx`) โดยปรับหน่วยบรรจุเป็น `@10EA/BOX`, `@12EA/BOX`, `@20EA/BOX` และตัดชื่อยี่ห้อซ้ำซ้อนออก
 - เรนเดอร์ไฟล์ PDF (`Order_Spec_List_2027_H1_FirstHalf_A4.pdf`, `ครึ่งปีแรก.pdf`, `Order_Spec_List_2027_H2_SecondHalf_A4.pdf`, `ครึ่งปีหลัง.pdf`) ใหม่เรียบร้อย
+
+### 2026-11-18 (รอบ 3)
+- อัปเดตคำอธิบายรายการหมวดหลอดไฟและโคมไฟ (`8_LIGHTING`) ครบทั้ง 11 รายการ ให้เป็นรูปแบบมาตรฐานเดียวกันทั้งหมดในไฟล์ Excel หลักทั้ง 4 ไฟล์ (`Master_Procurement_Plan_2027_GSE.xlsx`, `Order_Spec_List_2027_GSE.xlsx`, `Order_Spec_List_2027_H1_FirstHalf_A4.xlsx`, `Order_Spec_List_2027_H2_SecondHalf_A4.xlsx`) และเรนเดอร์ไฟล์ PDF (`Order_Spec_List_2027_H1_FirstHalf_A4.pdf`, `ครึ่งปีแรก.pdf`, `Order_Spec_List_2027_H2_SecondHalf_A4.pdf`, `ครึ่งปีหลัง.pdf`) ใหม่เรียบร้อย
