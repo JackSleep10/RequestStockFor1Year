@@ -156,3 +156,10 @@ Don Mueang International Airport (DMK) & Line Stations
   - **รอบครึ่งปีแรก (H1)**: **104 รายการ** | ก่อน VAT **2,158,101.14 บาท** | รวม VAT 7% **2,309,168.22 บาท**
   - **รอบครึ่งปีหลัง (H2)**: **218 รายการ** | ก่อน VAT **5,371,413.80 บาท** | รวม VAT 7% **5,747,412.77 บาท**
   - **รวมทั้งปี 2570**: **223 รายการ** | ก่อน VAT **7,529,514.94 บาท** | รวม VAT 7% **8,056,580.99 บาท**
+
+
+
+### 2026-11-18
+- ลบข้อความภาษาไทยทั้งหมดออกจากรายการในคอลัมน์ `ITEM DESCRIPTION` / `Full Specification` (19 รายการที่มีภาษาไทยปนอยู่) ในไฟล์ Excel หลักทั้ง 4 ไฟล์ (`Master_Procurement_Plan_2027_GSE.xlsx`, `Order_Spec_List_2027_GSE.xlsx`, `Order_Spec_List_2027_H1_FirstHalf_A4.xlsx`, `Order_Spec_List_2027_H2_SecondHalf_A4.xlsx`) โดยคงรหัสและสเปกทางเทคนิคเป็นภาษาอังกฤษครบถ้วน (เช่น `G8226`, `E27`, `GU5.3`, `Cutout 155 mm` / `185 mm`, `700g Heavy Knit`)
+- ปรับเอกสาร `Order_Spec_List_2027_H1_FirstHalf_A4.xlsx`: นำบล็อกลงนามท้ายตารางรายการสั่งซื้อ (`H1_ORDER_SPEC_A4`) ออก และคงบล็อกลงนามไว้ในหน้าสรุปงบประมาณ (`H1_EXECUTIVE_SUMMARY_A4`)
+- เรนเดอร์ไฟล์ PDF ทั้ง 6 ไฟล์ (`Order_Spec_List_2027_H1_FirstHalf_A4.pdf`, `ครึ่งปีแรก.pdf`, `Order_Spec_List_2027_H1_Executive_Summary_A4.pdf`, `Order_Spec_List_2027_H2_SecondHalf_A4.pdf`, `ครึ่งปีหลัง.pdf`, `Order_Spec_List_2027_H2_Executive_Summary_A4.pdf`) ใหม่เรียบร้อย
