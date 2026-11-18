@@ -163,3 +163,7 @@ Don Mueang International Airport (DMK) & Line Stations
 - ลบข้อความภาษาไทยทั้งหมดออกจากรายการในคอลัมน์ `ITEM DESCRIPTION` / `Full Specification` (19 รายการที่มีภาษาไทยปนอยู่) ในไฟล์ Excel หลักทั้ง 4 ไฟล์ (`Master_Procurement_Plan_2027_GSE.xlsx`, `Order_Spec_List_2027_GSE.xlsx`, `Order_Spec_List_2027_H1_FirstHalf_A4.xlsx`, `Order_Spec_List_2027_H2_SecondHalf_A4.xlsx`) โดยคงรหัสและสเปกทางเทคนิคเป็นภาษาอังกฤษครบถ้วน (เช่น `G8226`, `E27`, `GU5.3`, `Cutout 155 mm` / `185 mm`, `700g Heavy Knit`)
 - ปรับเอกสาร `Order_Spec_List_2027_H1_FirstHalf_A4.xlsx`: นำบล็อกลงนามท้ายตารางรายการสั่งซื้อ (`H1_ORDER_SPEC_A4`) ออก และคงบล็อกลงนามไว้ในหน้าสรุปงบประมาณ (`H1_EXECUTIVE_SUMMARY_A4`)
 - เรนเดอร์ไฟล์ PDF ทั้ง 6 ไฟล์ (`Order_Spec_List_2027_H1_FirstHalf_A4.pdf`, `ครึ่งปีแรก.pdf`, `Order_Spec_List_2027_H1_Executive_Summary_A4.pdf`, `Order_Spec_List_2027_H2_SecondHalf_A4.pdf`, `ครึ่งปีหลัง.pdf`, `Order_Spec_List_2027_H2_Executive_Summary_A4.pdf`) ใหม่เรียบร้อย
+
+### 2026-11-18 (รอบ 2)
+- ปรับมาตรฐานคำอธิบายรายการหมวดหลอดไฟและโคมไฟ (`8_LIGHTING`) จำนวน 9 รายการ ให้ตรงตามแบบ `Order_Spec_List_2027_H1_FirstHalf_A4 FIX` ในไฟล์ Excel หลักทั้ง 4 ไฟล์ (`Master_Procurement_Plan_2027_GSE.xlsx`, `Order_Spec_List_2027_GSE.xlsx`, `Order_Spec_List_2027_H1_FirstHalf_A4.xlsx`, `Order_Spec_List_2027_H2_SecondHalf_A4.xlsx`) โดยปรับหน่วยบรรจุเป็น `@10EA/BOX`, `@12EA/BOX`, `@20EA/BOX` และตัดชื่อยี่ห้อซ้ำซ้อนออก
+- เรนเดอร์ไฟล์ PDF (`Order_Spec_List_2027_H1_FirstHalf_A4.pdf`, `ครึ่งปีแรก.pdf`, `Order_Spec_List_2027_H2_SecondHalf_A4.pdf`, `ครึ่งปีหลัง.pdf`) ใหม่เรียบร้อย
